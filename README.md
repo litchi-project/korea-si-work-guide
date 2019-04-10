@@ -2,8 +2,18 @@
 
 # korea-si-work-guide
 * ## Java
+  * ##### JDK
+    * [OpenJDK](https://jdk.java.net/archive/)
+    * [OracleJDK](https://www.oracle.com/technetwork/java/javase/archive-139210.html)
 * ## Spring
+  * ##### Reference
+    * [spring.io](https://spring.io/)
+    * [spring.io (docs)](https://docs.spring.io/spring/docs/)
+    * [spring.io (docs 5.1.x 버전별 조회 후 사용) ](https://docs.spring.io/spring/docs/5.1.x/spring-framework-reference/)
+  * ##### Practices
+    * [spring-jpa-best-practices](https://github.com/cheese10yun/spring-jpa-best-practices)  
 * ## 전자정부 표준 프레임워크
+  * [표준프레임워크 포털](http://www.egovframe.go.kr/)
   * [WIKI](http://www.egovframe.go.kr/wiki/doku.php)
 * ## Flutter
   * [flutter.dev](https://flutter.dev/)
@@ -91,5 +101,24 @@
     * [iOS Developers (iOS, Swift, Objective-C)](https://www.facebook.com/apple.ios.developers/)
     * [치킨모임 (개발자, 기획자, 디자이너 교류 모임)](https://www.facebook.com/groups/1581001912175827/)
     * [IT 네트워킹 모임 (개발자, 기획자, 디자이너, 스타트업 네트워킹 모임)](https://www.facebook.com/groups/itmeetup/)
+  * ##### Blog
+    * [개발자스럽다](https://blog.gaerae.com/)
+    * [우아한형제들 기술 블로그](http://woowabros.github.io/)
+    * [티몬의 개발이야기](https://tmondev.blog.me/)
+    * [LINE ENGINEERING](https://developers-kr.googleblog.com/)
+    * [Google Developers Korea Blog](https://engineering.linecorp.com/ko/)
+    * [Popit](https://www.popit.kr/)
+    * [kakao 기술 블로그](http://tech.kakao.com/)
+    * [Mozilla 웹 기술 블로그](http://hacks.mozilla.or.kr/)
+    * [조대협의 블로그](https://bcho.tistory.com/)
+  * ##### Youtube
+    * [백기선](https://www.youtube.com/channel/UCwjaZf1WggZdbczi36bWlBA)
+    * [코딩의 신 아샬](https://www.youtube.com/channel/UCLLncfeIYljE0o_yUw7MkcA)
+    * [arahansa me](https://www.youtube.com/channel/UCIoBpkGml7Vemr_zdwwTGfA)
+    * [케빈 TV me](https://www.youtube.com/channel/UCsOJxLxzQl8IbwGS-Cp5t8w)
+    * [Matt TV me](https://www.youtube.com/channel/UCmnc5lfBS18kgQBJMM4Lwaw)
+    * [노마드 코더 Nomad Coders TV me](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
+    * [Sungchul Park 코더 Nomad Coders TV me](https://www.youtube.com/user/gladlamb/videos)
+    * [Toby Lee Park 코더 Nomad Coders TV me](https://www.youtube.com/channel/UCcqH2RV1-9ebRBhmN_uaSNg)
 * ## Career 
   * [KOSA 경력관리시스템](https://career.sw.or.kr/)
